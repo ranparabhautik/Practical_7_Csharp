@@ -2,7 +2,7 @@
 {
     interface SeasonalOffer
     {
-        double ApplyOffr(double amount);
+        double ApplyOffer(double amount);
 
     }
 }

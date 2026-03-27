@@ -6,7 +6,7 @@ namespace PR_7.OCP
     {
         private double discount = 0.10;
 
-        public double ApplyOffr(double amount)
+        public double ApplyOffer(double amount)
         {
             Console.WriteLine("Applying Summer Offer (10%)");
             return amount - (amount * discount);

@@ -4,7 +4,7 @@ using System.Text;
 
 namespace PR_7.LSP.Interfaces
 {
-    public interface IMailDoc
+    public interface IMailDoc // mailing the document after priting it
     {
         void Mail(string text);
     }

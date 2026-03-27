@@ -9,12 +9,12 @@ namespace PR_7.DIP
     {
         public void TurnOff()
         {
-            Console.WriteLine("Light is Onn..");
+            Console.WriteLine("Light is Off..");
         }
 
         public void TurnOn()
         {
-            Console.WriteLine("Light is Off..");
+            Console.WriteLine("Light is Onn..");
         }
     }
 }

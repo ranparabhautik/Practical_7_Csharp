@@ -4,6 +4,5 @@
     public interface IPrinterTask
     {
         void print(string printText);
-        void scan(string scanText);
     }
 }

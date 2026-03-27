@@ -2,7 +2,7 @@
 
 namespace PR_7.ISP
 {
-    internal class InkPrinter : IGetDoc, IMailDoc, IPrinterTask
+    internal class InkPrinter : IGetDoc, IMailDoc, IPrinterTask,IScannerTask
     {
         public void getDoc(string filename)
         {
@@ -22,7 +22,7 @@ namespace PR_7.ISP
 
         public void scan(string scanText)
         {
-            Console.WriteLine("Scanning Document in Lazer Printer");
+            Console.WriteLine("Scanning Document in Ink Printer");
             Console.WriteLine(scanText);
         }
     }

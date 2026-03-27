@@ -57,7 +57,7 @@ internal class Program
             return;
         }
 
-        double billamt = offers.ApplyOffr(amount);
+        double billamt = offers.ApplyOffer(amount);
         Console.WriteLine($"Final bill : {billamt}");
 
 

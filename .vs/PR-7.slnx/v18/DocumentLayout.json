@@ -3,16 +3,104 @@
   "WorkspaceRootPath": "C:\\Users\\bhautik.ranpara\\source\\repos\\PR-7\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{41876DD9-F1AB-B03B-2372-A267B7810BB8}|PR-7\\PR-7.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\pr-7\\pr-7\\srp\\banksystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41876DD9-F1AB-B03B-2372-A267B7810BB8}|PR-7\\PR-7.csproj|solutionrelative:pr-7\\srp\\banksystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{41876DD9-F1AB-B03B-2372-A267B7810BB8}|PR-7\\PR-7.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\pr-7\\pr-7\\lsp\\lazerprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41876DD9-F1AB-B03B-2372-A267B7810BB8}|PR-7\\PR-7.csproj|solutionrelative:pr-7\\lsp\\lazerprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41876DD9-F1AB-B03B-2372-A267B7810BB8}|PR-7\\PR-7.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\pr-7\\pr-7\\lsp\\inkprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41876DD9-F1AB-B03B-2372-A267B7810BB8}|PR-7\\PR-7.csproj|solutionrelative:pr-7\\lsp\\inkprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41876DD9-F1AB-B03B-2372-A267B7810BB8}|PR-7\\PR-7.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\pr-7\\pr-7\\isp\\inkprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41876DD9-F1AB-B03B-2372-A267B7810BB8}|PR-7\\PR-7.csproj|solutionrelative:pr-7\\isp\\inkprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{41876DD9-F1AB-B03B-2372-A267B7810BB8}|PR-7\\PR-7.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\pr-7\\pr-7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{41876DD9-F1AB-B03B-2372-A267B7810BB8}|PR-7\\PR-7.csproj|solutionrelative:pr-7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{41876DD9-F1AB-B03B-2372-A267B7810BB8}|PR-7\\PR-7.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\pr-7\\pr-7\\isp\\interfaces\\iscannertask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41876DD9-F1AB-B03B-2372-A267B7810BB8}|PR-7\\PR-7.csproj|solutionrelative:pr-7\\isp\\interfaces\\iscannertask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41876DD9-F1AB-B03B-2372-A267B7810BB8}|PR-7\\PR-7.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\pr-7\\pr-7\\isp\\interfaces\\iprintertask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41876DD9-F1AB-B03B-2372-A267B7810BB8}|PR-7\\PR-7.csproj|solutionrelative:pr-7\\isp\\interfaces\\iprintertask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41876DD9-F1AB-B03B-2372-A267B7810BB8}|PR-7\\PR-7.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\pr-7\\pr-7\\isp\\lazerprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41876DD9-F1AB-B03B-2372-A267B7810BB8}|PR-7\\PR-7.csproj|solutionrelative:pr-7\\isp\\lazerprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41876DD9-F1AB-B03B-2372-A267B7810BB8}|PR-7\\PR-7.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\pr-7\\pr-7\\dip\\bulb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41876DD9-F1AB-B03B-2372-A267B7810BB8}|PR-7\\PR-7.csproj|solutionrelative:pr-7\\dip\\bulb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41876DD9-F1AB-B03B-2372-A267B7810BB8}|PR-7\\PR-7.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\pr-7\\pr-7\\dip\\mainswitch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41876DD9-F1AB-B03B-2372-A267B7810BB8}|PR-7\\PR-7.csproj|solutionrelative:pr-7\\dip\\mainswitch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41876DD9-F1AB-B03B-2372-A267B7810BB8}|PR-7\\PR-7.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\pr-7\\pr-7\\dip\\light.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41876DD9-F1AB-B03B-2372-A267B7810BB8}|PR-7\\PR-7.csproj|solutionrelative:pr-7\\dip\\light.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41876DD9-F1AB-B03B-2372-A267B7810BB8}|PR-7\\PR-7.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\pr-7\\pr-7\\dip\\interfaces\\iswitch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41876DD9-F1AB-B03B-2372-A267B7810BB8}|PR-7\\PR-7.csproj|solutionrelative:pr-7\\dip\\interfaces\\iswitch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41876DD9-F1AB-B03B-2372-A267B7810BB8}|PR-7\\PR-7.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\pr-7\\pr-7\\isp\\interfaces\\imaildoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41876DD9-F1AB-B03B-2372-A267B7810BB8}|PR-7\\PR-7.csproj|solutionrelative:pr-7\\isp\\interfaces\\imaildoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41876DD9-F1AB-B03B-2372-A267B7810BB8}|PR-7\\PR-7.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\pr-7\\pr-7\\lsp\\interfaces\\iscanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41876DD9-F1AB-B03B-2372-A267B7810BB8}|PR-7\\PR-7.csproj|solutionrelative:pr-7\\lsp\\interfaces\\iscanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{41876DD9-F1AB-B03B-2372-A267B7810BB8}|PR-7\\PR-7.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\pr-7\\pr-7\\lsp\\interfaces\\iprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{41876DD9-F1AB-B03B-2372-A267B7810BB8}|PR-7\\PR-7.csproj|solutionrelative:pr-7\\lsp\\interfaces\\iprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41876DD9-F1AB-B03B-2372-A267B7810BB8}|PR-7\\PR-7.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\pr-7\\pr-7\\lsp\\interfaces\\imaildoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41876DD9-F1AB-B03B-2372-A267B7810BB8}|PR-7\\PR-7.csproj|solutionrelative:pr-7\\lsp\\interfaces\\imaildoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41876DD9-F1AB-B03B-2372-A267B7810BB8}|PR-7\\PR-7.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\pr-7\\pr-7\\lsp\\interfaces\\igetdoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41876DD9-F1AB-B03B-2372-A267B7810BB8}|PR-7\\PR-7.csproj|solutionrelative:pr-7\\lsp\\interfaces\\igetdoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41876DD9-F1AB-B03B-2372-A267B7810BB8}|PR-7\\PR-7.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\pr-7\\pr-7\\ocp\\winteroffer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41876DD9-F1AB-B03B-2372-A267B7810BB8}|PR-7\\PR-7.csproj|solutionrelative:pr-7\\ocp\\winteroffer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41876DD9-F1AB-B03B-2372-A267B7810BB8}|PR-7\\PR-7.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\pr-7\\pr-7\\ocp\\summeroffer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41876DD9-F1AB-B03B-2372-A267B7810BB8}|PR-7\\PR-7.csproj|solutionrelative:pr-7\\ocp\\summeroffer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41876DD9-F1AB-B03B-2372-A267B7810BB8}|PR-7\\PR-7.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\pr-7\\pr-7\\ocp\\diwalioffer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41876DD9-F1AB-B03B-2372-A267B7810BB8}|PR-7\\PR-7.csproj|solutionrelative:pr-7\\ocp\\diwalioffer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41876DD9-F1AB-B03B-2372-A267B7810BB8}|PR-7\\PR-7.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\pr-7\\pr-7\\ocp\\christmasoffer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41876DD9-F1AB-B03B-2372-A267B7810BB8}|PR-7\\PR-7.csproj|solutionrelative:pr-7\\ocp\\christmasoffer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41876DD9-F1AB-B03B-2372-A267B7810BB8}|PR-7\\PR-7.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\pr-7\\pr-7\\ocp\\interfaces\\seasonaloffers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41876DD9-F1AB-B03B-2372-A267B7810BB8}|PR-7\\PR-7.csproj|solutionrelative:pr-7\\ocp\\interfaces\\seasonaloffers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41876DD9-F1AB-B03B-2372-A267B7810BB8}|PR-7\\PR-7.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\pr-7\\pr-7\\srp\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41876DD9-F1AB-B03B-2372-A267B7810BB8}|PR-7\\PR-7.csproj|solutionrelative:pr-7\\srp\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41876DD9-F1AB-B03B-2372-A267B7810BB8}|PR-7\\PR-7.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\pr-7\\pr-7\\srp\\cashier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41876DD9-F1AB-B03B-2372-A267B7810BB8}|PR-7\\PR-7.csproj|solutionrelative:pr-7\\srp\\cashier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41876DD9-F1AB-B03B-2372-A267B7810BB8}|PR-7\\PR-7.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\pr-7\\pr-7\\srp\\banksystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41876DD9-F1AB-B03B-2372-A267B7810BB8}|PR-7\\PR-7.csproj|solutionrelative:pr-7\\srp\\banksystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41876DD9-F1AB-B03B-2372-A267B7810BB8}|PR-7\\PR-7.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\pr-7\\pr-7\\isp\\interfaces\\igetdoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41876DD9-F1AB-B03B-2372-A267B7810BB8}|PR-7\\PR-7.csproj|solutionrelative:pr-7\\isp\\interfaces\\igetdoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,42 +110,329 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Bulb.cs",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\PR-7\\PR-7\\DIP\\Bulb.cs",
+              "RelativeDocumentMoniker": "PR-7\\DIP\\Bulb.cs",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\PR-7\\PR-7\\DIP\\Bulb.cs",
+              "RelativeToolTip": "PR-7\\DIP\\Bulb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T04:18:48.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainSwitch.cs",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\PR-7\\PR-7\\DIP\\MainSwitch.cs",
+              "RelativeDocumentMoniker": "PR-7\\DIP\\MainSwitch.cs",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\PR-7\\PR-7\\DIP\\MainSwitch.cs",
+              "RelativeToolTip": "PR-7\\DIP\\MainSwitch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T04:15:33.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Light.cs",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\PR-7\\PR-7\\DIP\\Light.cs",
+              "RelativeDocumentMoniker": "PR-7\\DIP\\Light.cs",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\PR-7\\PR-7\\DIP\\Light.cs",
+              "RelativeToolTip": "PR-7\\DIP\\Light.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T04:15:15.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ISwitch.cs",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\PR-7\\PR-7\\DIP\\Interfaces\\ISwitch.cs",
+              "RelativeDocumentMoniker": "PR-7\\DIP\\Interfaces\\ISwitch.cs",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\PR-7\\PR-7\\DIP\\Interfaces\\ISwitch.cs",
+              "RelativeToolTip": "PR-7\\DIP\\Interfaces\\ISwitch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T04:13:28.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "LazerPrinter.cs",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\PR-7\\PR-7\\LSP\\LazerPrinter.cs",
+              "RelativeDocumentMoniker": "PR-7\\LSP\\LazerPrinter.cs",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\PR-7\\PR-7\\LSP\\LazerPrinter.cs",
+              "RelativeToolTip": "PR-7\\LSP\\LazerPrinter.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T04:12:34.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InkPrinter.cs",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\PR-7\\PR-7\\LSP\\InkPrinter.cs",
+              "RelativeDocumentMoniker": "PR-7\\LSP\\InkPrinter.cs",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\PR-7\\PR-7\\LSP\\InkPrinter.cs",
+              "RelativeToolTip": "PR-7\\LSP\\InkPrinter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T04:12:32.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SummerOffer.cs",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\PR-7\\PR-7\\OCP\\SummerOffer.cs",
+              "RelativeDocumentMoniker": "PR-7\\OCP\\SummerOffer.cs",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\PR-7\\PR-7\\OCP\\SummerOffer.cs",
+              "RelativeToolTip": "PR-7\\OCP\\SummerOffer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T04:10:15.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ChristmasOffer.cs",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\PR-7\\PR-7\\OCP\\ChristmasOffer.cs",
+              "RelativeDocumentMoniker": "PR-7\\OCP\\ChristmasOffer.cs",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\PR-7\\PR-7\\OCP\\ChristmasOffer.cs",
+              "RelativeToolTip": "PR-7\\OCP\\ChristmasOffer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T04:10:03.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SeasonalOffers.cs",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\PR-7\\PR-7\\OCP\\Interfaces\\SeasonalOffers.cs",
+              "RelativeDocumentMoniker": "PR-7\\OCP\\Interfaces\\SeasonalOffers.cs",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\PR-7\\PR-7\\OCP\\Interfaces\\SeasonalOffers.cs",
+              "RelativeToolTip": "PR-7\\OCP\\Interfaces\\SeasonalOffers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T04:09:55.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DiwaliOffer.cs",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\PR-7\\PR-7\\OCP\\DiwaliOffer.cs",
+              "RelativeDocumentMoniker": "PR-7\\OCP\\DiwaliOffer.cs",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\PR-7\\PR-7\\OCP\\DiwaliOffer.cs",
+              "RelativeToolTip": "PR-7\\OCP\\DiwaliOffer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T04:09:26.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "WinterOffer.cs",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\PR-7\\PR-7\\OCP\\WinterOffer.cs",
+              "RelativeDocumentMoniker": "PR-7\\OCP\\WinterOffer.cs",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\PR-7\\PR-7\\OCP\\WinterOffer.cs",
+              "RelativeToolTip": "PR-7\\OCP\\WinterOffer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T04:09:11.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IScanner.cs",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\PR-7\\PR-7\\LSP\\Interfaces\\IScanner.cs",
+              "RelativeDocumentMoniker": "PR-7\\LSP\\Interfaces\\IScanner.cs",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\PR-7\\PR-7\\LSP\\Interfaces\\IScanner.cs",
+              "RelativeToolTip": "PR-7\\LSP\\Interfaces\\IScanner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T04:07:25.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IMailDoc.cs",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\PR-7\\PR-7\\LSP\\Interfaces\\IMailDoc.cs",
+              "RelativeDocumentMoniker": "PR-7\\LSP\\Interfaces\\IMailDoc.cs",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\PR-7\\PR-7\\LSP\\Interfaces\\IMailDoc.cs",
+              "RelativeToolTip": "PR-7\\LSP\\Interfaces\\IMailDoc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T04:06:52.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IGetDoc.cs",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\PR-7\\PR-7\\LSP\\Interfaces\\IGetDoc.cs",
+              "RelativeDocumentMoniker": "PR-7\\LSP\\Interfaces\\IGetDoc.cs",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\PR-7\\PR-7\\LSP\\Interfaces\\IGetDoc.cs",
+              "RelativeToolTip": "PR-7\\LSP\\Interfaces\\IGetDoc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T04:06:34.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IGetDoc.cs",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\PR-7\\PR-7\\ISP\\Interfaces\\IGetDoc.cs",
+              "RelativeDocumentMoniker": "PR-7\\ISP\\Interfaces\\IGetDoc.cs",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\PR-7\\PR-7\\ISP\\Interfaces\\IGetDoc.cs",
+              "RelativeToolTip": "PR-7\\ISP\\Interfaces\\IGetDoc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T04:02:09.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IMailDoc.cs",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\PR-7\\PR-7\\ISP\\Interfaces\\IMailDoc.cs",
+              "RelativeDocumentMoniker": "PR-7\\ISP\\Interfaces\\IMailDoc.cs",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\PR-7\\PR-7\\ISP\\Interfaces\\IMailDoc.cs",
+              "RelativeToolTip": "PR-7\\ISP\\Interfaces\\IMailDoc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T04:02:07.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InkPrinter.cs",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\PR-7\\PR-7\\ISP\\InkPrinter.cs",
+              "RelativeDocumentMoniker": "PR-7\\ISP\\InkPrinter.cs",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\PR-7\\PR-7\\ISP\\InkPrinter.cs",
+              "RelativeToolTip": "PR-7\\ISP\\InkPrinter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T03:59:56.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LazerPrinter.cs",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\PR-7\\PR-7\\ISP\\LazerPrinter.cs",
+              "RelativeDocumentMoniker": "PR-7\\ISP\\LazerPrinter.cs",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\PR-7\\PR-7\\ISP\\LazerPrinter.cs",
+              "RelativeToolTip": "PR-7\\ISP\\LazerPrinter.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBMAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T03:59:43.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IScannerTask.cs",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\PR-7\\PR-7\\ISP\\Interfaces\\IScannerTask.cs",
+              "RelativeDocumentMoniker": "PR-7\\ISP\\Interfaces\\IScannerTask.cs",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\PR-7\\PR-7\\ISP\\Interfaces\\IScannerTask.cs",
+              "RelativeToolTip": "PR-7\\ISP\\Interfaces\\IScannerTask.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T03:59:09.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IPrinterTask.cs",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\PR-7\\PR-7\\ISP\\Interfaces\\IPrinterTask.cs",
+              "RelativeDocumentMoniker": "PR-7\\ISP\\Interfaces\\IPrinterTask.cs",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\PR-7\\PR-7\\ISP\\Interfaces\\IPrinterTask.cs",
+              "RelativeToolTip": "PR-7\\ISP\\Interfaces\\IPrinterTask.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T03:58:35.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\PR-7\\PR-7\\SRP\\Manager.cs",
+              "RelativeDocumentMoniker": "PR-7\\SRP\\Manager.cs",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\PR-7\\PR-7\\SRP\\Manager.cs",
+              "RelativeToolTip": "PR-7\\SRP\\Manager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T03:53:35.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Cashier.cs",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\PR-7\\PR-7\\SRP\\Cashier.cs",
+              "RelativeDocumentMoniker": "PR-7\\SRP\\Cashier.cs",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\PR-7\\PR-7\\SRP\\Cashier.cs",
+              "RelativeToolTip": "PR-7\\SRP\\Cashier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T03:52:42.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
               "Title": "BankSystem.cs",
               "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\PR-7\\PR-7\\SRP\\BankSystem.cs",
               "RelativeDocumentMoniker": "PR-7\\SRP\\BankSystem.cs",
               "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\PR-7\\PR-7\\SRP\\BankSystem.cs",
               "RelativeToolTip": "PR-7\\SRP\\BankSystem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-27T03:46:43.243Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 13,
               "Title": "IPrinter.cs",
               "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\PR-7\\PR-7\\LSP\\Interfaces\\IPrinter.cs",
               "RelativeDocumentMoniker": "PR-7\\LSP\\Interfaces\\IPrinter.cs",
               "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\PR-7\\PR-7\\LSP\\Interfaces\\IPrinter.cs",
               "RelativeToolTip": "PR-7\\LSP\\Interfaces\\IPrinter.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-26T12:35:25.074Z"
+              "WhenOpened": "2026-03-26T12:35:25.074Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\PR-7\\PR-7\\Program.cs",
               "RelativeDocumentMoniker": "PR-7\\Program.cs",
               "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\PR-7\\PR-7\\Program.cs",
               "RelativeToolTip": "PR-7\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAgwD0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-26T12:33:49.374Z",
               "EditorCaption": ""

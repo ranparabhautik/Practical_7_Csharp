@@ -6,7 +6,7 @@ namespace PR_7.OCP
     {
         private double discount = 0.25;
 
-        public double ApplyOffr(double amount)
+        public double ApplyOffer(double amount)
         {
             Console.WriteLine("Applying Diwali Offer (25%)");
             return amount - (amount * discount);
