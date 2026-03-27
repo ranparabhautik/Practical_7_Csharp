@@ -13,7 +13,7 @@
         }
         public void Withdraw(double amt)
         {
-            Balance += amt;
+            Balance -= amt;
             Console.WriteLine($"Amount Withdrawn {amt} and Balance is : {Balance}");
         }
     }

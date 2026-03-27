@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\bhautik.ranpara\\source\\repos\\PR-7\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{41876DD9-F1AB-B03B-2372-A267B7810BB8}|PR-7\\PR-7.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\pr-7\\pr-7\\srp\\banksystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41876DD9-F1AB-B03B-2372-A267B7810BB8}|PR-7\\PR-7.csproj|solutionrelative:pr-7\\srp\\banksystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{41876DD9-F1AB-B03B-2372-A267B7810BB8}|PR-7\\PR-7.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\pr-7\\pr-7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{41876DD9-F1AB-B03B-2372-A267B7810BB8}|PR-7\\PR-7.csproj|solutionrelative:pr-7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -18,11 +22,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "BankSystem.cs",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\PR-7\\PR-7\\SRP\\BankSystem.cs",
+              "RelativeDocumentMoniker": "PR-7\\SRP\\BankSystem.cs",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\PR-7\\PR-7\\SRP\\BankSystem.cs",
+              "RelativeToolTip": "PR-7\\SRP\\BankSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T03:46:43.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "IPrinter.cs",
               "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\PR-7\\PR-7\\LSP\\Interfaces\\IPrinter.cs",
               "RelativeDocumentMoniker": "PR-7\\LSP\\Interfaces\\IPrinter.cs",
@@ -30,18 +47,17 @@
               "RelativeToolTip": "PR-7\\LSP\\Interfaces\\IPrinter.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-26T12:35:25.074Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-26T12:35:25.074Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\PR-7\\PR-7\\Program.cs",
               "RelativeDocumentMoniker": "PR-7\\Program.cs",
               "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\PR-7\\PR-7\\Program.cs",
               "RelativeToolTip": "PR-7\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-26T12:33:49.374Z",
               "EditorCaption": ""
